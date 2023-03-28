@@ -1,5 +1,6 @@
 mod algorithm;
 
 fn main() {
-    algorithm::longest_substring::length_of_longest_substring("asfas".to_string());
+    let r = algorithm::longest_palindrome::longest_palindrome("bb".to_string());
+    println!("{}", r);
 }
