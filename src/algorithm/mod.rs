@@ -4,3 +4,4 @@ pub mod longest_palindrome;
 pub mod n_convert;
 pub mod int_reverse;
 pub mod atoi;
+pub mod is_palindrome;
