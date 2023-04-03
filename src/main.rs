@@ -1,6 +1,6 @@
 mod algorithm;
 
 fn main() {
-   let i = algorithm::int_reverse::reverse(1534236469);
+   let i = algorithm::regex_match::is_match("aa".to_string(), "a*".to_string());
     println!("{}", i);
 }

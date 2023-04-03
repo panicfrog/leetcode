@@ -5,3 +5,5 @@ pub mod n_convert;
 pub mod int_reverse;
 pub mod atoi;
 pub mod is_palindrome;
+pub mod regex_match;
+pub mod max_area;
