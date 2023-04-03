@@ -1,6 +1,6 @@
 mod algorithm;
 
 fn main() {
-   let i = algorithm::regex_match::is_match("aa".to_string(), "a*".to_string());
-    println!("{}", i);
+    let v = algorithm::int_to_roman::int_to_roman(1994);
+    println!("{}", v);
 }
