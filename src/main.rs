@@ -1,6 +1,6 @@
 mod algorithm;
 
 fn main() {
-    let v = algorithm::int_to_roman::int_to_roman(1994);
+    let v = algorithm::roman_to_int::roman_to_int("III".to_string());
     println!("{}", v);
 }
