@@ -10,3 +10,4 @@ pub mod max_area;
 pub mod int_to_roman;
 pub mod roman_to_int;
 pub mod longest_common_prefix;
+pub mod three_sum;
